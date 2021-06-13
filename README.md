@@ -1,4 +1,4 @@
-# parcel-plugin-handlebars-precompile
+# parcel-plugin-handlebars-precompile-ts
 
 Precompile handlebars templates into typescript allowing them to be imported as a regular typescript source.
 It is up to you how and when the template will be rendered.
